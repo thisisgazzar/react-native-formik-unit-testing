@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1673830566407" clover="3.2.0">
+  <project timestamp="1673830566407" name="All files">
+    <metrics statements="15" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="4" elements="27" coveredelements="23" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="App.js" path="/Volumes/T7/Recent Work/react-native-formik-unit-testing/App.js">
+      <metrics statements="15" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="4"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="19" count="6" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="21" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="27" count="6" type="stmt"/>
+      <line num="28" count="6" type="stmt"/>
+      <line num="34" count="6" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="40" count="6" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="47" count="6" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="63" count="28" type="stmt"/>
+      <line num="110" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
